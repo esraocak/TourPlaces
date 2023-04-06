@@ -21,4 +21,4 @@ Build an Tour Places App using ReactJS.
 
 - ReactJS
 
--SCSS
+- SCSS
